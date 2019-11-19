@@ -1,0 +1,16 @@
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.csprojAssemblyReference.cache
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.AssemblyInfoInputs.cache
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.AssemblyInfo.cs
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.deps.json
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.runtimeconfig.json
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.runtimeconfig.dev.json
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.dll
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.pdb
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/Microsoft.Rest.ClientRuntime.dll
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.csproj.CopyComplete
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.dll
+/Users/a6272/Desktop/egco313_Asure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.pdb
